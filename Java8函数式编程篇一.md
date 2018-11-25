@@ -327,8 +327,3 @@ public interface IntPred {
     System.out.println(check(x -> x > 10, 6));
 }
 ```
-
-# 第三章 流
-Java 8 对核心类库的改进主要包括集合类的 API 和新引入的流 (Stream)。流使程序员得以站在更高的抽象层次上对集合进行操作。
-
-## 3.1 从外部迭代到内部迭代
